@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Chiến lược"
+        android:id="@+id/menuChienLuoc"/>
+    <item android:title="Tạp chí"
+        android:id="@+id/menuTapChi"/>
+    <item android:title="Nghiên cứu"
+        android:id="@+id/menuNghienCuuc"/>
+    <item android:title="Hội thảo"
+        android:id="@+id/menuHoiThao"/>
+</menu>
